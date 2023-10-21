@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">Hi, I'm Jamil. With over 5 years of experience in freelance and agency environments, I will help you transform your personal or business concept into a successful project. The work I deliver is 100% original and high quality. I have been making Landing pages, Business websites, E-commerce stores, Fashion websites, Portfolio websites, Blog websites, Restaurant websites, Custom websites, and many more. As part of ensuring quality delivery, I prefer discussion over projects before taking them, ensuring that all key points and aims of the job are met.<br><br>- 🔭 I’m working as a Web Developer<br>- ⚡ In my free time I learn code</p>
+<p align="left">Hi, I'm Jamil. With over 5 years of experience in freelance and agency environments, I will help you transform your personal or business concept into a successful project. The work I deliver is 100% original and high quality. I have been making Landing pages, Business websites, E-commerce stores, Fashion websites, Portfolio websites, Blog websites, Restaurant websites, Custom websites, and many more. As part of ensuring quality delivery, I prefer discussion over projects before taking them, ensuring that all key points and aims of the job are met.<br><br>- 🔭 I’m working as a Web Developer<br>- ⚡ In my free time I learn code<br> - 📄 My Working Portfolio on Flickr [https://www.flickr.com/photos/hmjamilme/albums]</p>
 
 ###
 
