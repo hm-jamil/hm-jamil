@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="center">A Passionate Web Developer</h3>
+<h3 align="center">A Passionate Web Developer & WordPress Expert</h3>
 
 ###
 
